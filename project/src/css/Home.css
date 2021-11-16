@@ -1,0 +1,59 @@
+
+.card_block{
+    display: flex;
+    padding: 50px;
+    
+}
+.fashion_img{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left: 10%;
+}
+.card_block{
+    position: absolute;
+    
+}
+.block{
+    display: flex;
+}
+.para{
+    position: absolute;
+    top: 75%;
+    display: flex;
+}
+.popup{
+    position: absolute;
+    top: 130%;
+    width: 100%;
+}
+.shop{
+    position: absolute;
+    top: 52%;
+    left: 25%;width: 20%;
+}
+.camera{
+    width: 400px;
+}
+.box1{
+    width: 250px;
+    margin-left: 70px;
+    height: 200px;
+    border: 5px solid pink;
+}
+.box2{
+    width: 150px;
+    height:  60px;
+    background-color: white;
+    position: absolute;
+    left: 23%;
+    top: 20%
+
+}
+.blog{
+    background-color: thistle;
+    width: 50%;
+    margin-left:  30%;
+    height: 400px;
+    margin-bottom: 20%;
+}

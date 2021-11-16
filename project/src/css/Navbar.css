@@ -1,0 +1,28 @@
+.form-check{
+    padding-top: 30px;
+    color: white;
+}
+.form-check-label{
+    color: white;
+}
+.mode_colors{
+    display: flex;
+    
+    
+}
+.blue_btn{
+    margin-right: 10px;
+    width: 50%;
+    border: none;
+    
+}
+.red_btn{
+    margin-right: 10px;
+    width: 50%;
+    border: none;
+}
+.green_btn{
+    margin-right: 10px;
+    width: 50%;
+    border: none;
+}
